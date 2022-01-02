@@ -1,1 +1,2 @@
-https://github.com/MoIXtz/da-hood-cash-crash-script
+
+game:GetService("Players").LocalPlayer:Kick("User Banned")
