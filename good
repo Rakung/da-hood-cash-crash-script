@@ -1,1 +1,2 @@
 game:GetService("Players").LocalPlayer:Kick("User Banned")
+print("hello wlrld)
